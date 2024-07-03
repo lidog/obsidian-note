@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "4d3984b53dd11a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a8c5c7c5431a110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ac350b603549727",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记目录.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d09b8fd8e589c4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a46cb4ad75cb8f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e819be71e6aaff3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64f70ed006d988d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb508589746ae724",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b13a2971c948b5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "24f4f939a39d09b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf8d6e6765b0116f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记目录.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c6fa76a74f4115c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "笔记目录.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80e2d7cf729874ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b6aae02c0870cd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "笔记目录.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "8ac350b603549727",
+  "lastOpenFiles": [
+    "template/第一章.md",
+    "file/article/nest 基础架构.md",
+    "file/article/插件推荐.md",
+    "笔记目录.md",
+    "粘贴板.md",
+    "记事本.md",
+    "待处理工作.md",
+    "file/article/20240701 - 05.md",
+    "周记总览.md",
+    "file/article/黎镇华2023年度工作总结.docx.md",
+    "file/article/2024-07-03.md",
+    "重要文件.md",
+    "file/attachment/Pasted image 20240703151544.png",
+    "file/article/8 - 12.md",
+    "file/article/SMR 介绍.md",
+    "file/article/ac.md",
+    "file/article/20240624 - 28.md",
+    "file/attachment/Pasted image 20240625165918.png",
+    "file/attachment/CADAC员工2024年6月工时统计表-其他工时（黎镇华）.xls",
+    "file/attachment/CADAC员工2024年5-6月工时统计表-其他工时（黎镇华）.xls",
+    "file/attachment/CADAC员工2024年5月工时统计表-其他工时（黎镇华）的副本.xls",
+    "file/article/20240617 - 21.md",
+    "file/article/标牌样式渲染整理.md",
+    "file/article/20240611 - 14.md",
+    "file/attachment/adb3e14adc899da428ae15f91073a564.mp4",
+    "file/attachment/Pasted image 20240617083740.png",
+    "file/attachment/Pasted image 20240617083713.png",
+    "file/attachment/Pasted image 20240617083649.png",
+    "file/attachment/Pasted image 20240617083621.png",
+    "file/attachment/Pasted image 20240617083603.png",
+    "file/attachment/AlibabaPuHuiTi-3/AlibabaPuHuiTi-3-95-ExtraBold.ttf",
+    "file/attachment/AlibabaPuHuiTi-3/AlibabaPuHuiTi-3-75-SemiBold.ttf",
+    "file/attachment/AlibabaPuHuiTi-3/AlibabaPuHuiTi-3-85-Bold.ttf",
+    "file/attachment/AlibabaPuHuiTi-3/AlibabaPuHuiTi-3-65-Medium.ttf",
+    "file/attachment/AlibabaPuHuiTi-3/AlibabaPuHuiTi-3-55-RegularL3.ttf",
+    "file/attachment/AlibabaPuHuiTi-3/AlibabaPuHuiTi-3-55-Regular.ttf",
+    "file/attachment/Pasted image 20240614110932.png",
+    "file/article/20240603 - 07.md",
+    "file/attachment/Pasted image 20240611085720.png",
+    "file/attachment/Pasted image 20240609171847.png",
+    "file/article/20240527 - 31.md",
+    "file/article/新字段.md",
+    "file/article/20240520 - 24.md",
+    "file/article/20240513 - 17.md",
+    "file/article/20240506 - 11.md",
+    "file/article/20240429 - 02.md"
+  ]
+}
